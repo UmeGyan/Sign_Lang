@@ -1,0 +1,6 @@
+tensorflow==2.13.0  
+mediapipe==0.10.0  # For gesture detection and processing
+opencv-python==4.8.0  # For video processing
+numpy==1.22.0  # Numerical operations
+keras==2.13.0  # Used for model handling
+matplotlib==3.7.1  # If visualization of training is required
